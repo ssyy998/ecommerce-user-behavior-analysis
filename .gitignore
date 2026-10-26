@@ -1,0 +1,12 @@
+# 原始数据太大不入库（README 里写了天池下载方式）
+淘宝用户行为.csv
+data/userbehavior_1m.csv
+
+# 个人随手记，不上传
+笔记.md
+
+# 系统文件
+__pycache__/
+.ipynb_checkpoints/
+desktop.ini
+Thumbs.db
